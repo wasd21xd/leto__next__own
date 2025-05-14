@@ -1,5 +1,5 @@
 import './header.css'
-import deti from '../../../public/img/header/IMG_60181.png'
+import deti from '../../../../public/img/header/IMG_60181.png'
 
 function Header () {
   return (
